@@ -1,7 +1,7 @@
 # Portfolio
 
 ## BY METHODOLOGY:
-+ [Data Manipulation]
++ [Data Manipulation] (Portfolio/README.md)
 + [Supervised Learning]
 + [Pathfinding]
 
